@@ -1,1 +1,42 @@
 
+# Relatório de Insights - Vendas Internacionais do Produto Meganium
+
+## Resumo Executivo
+
+Este relatório apresenta uma análise consolidada das vendas internacionais do produto Meganium, com dados provenientes das plataformas AliExpress, Etsy e Shopee. O objetivo é identificar padrões de consumo, comportamento demográfico dos compradores e oportunidades de mercado com base nos dados de pedidos realizados entre maio e outubro de 2024.
+
+## Metodologia
+
+Os dados foram extraídos de três plataformas de vendas online, totalizando mais de 60 pedidos. As análises foram conduzidas a partir das seguintes variáveis:
+- Quantidade de pedidos e unidades vendidas por país.
+- Receita total gerada e valores de desconto aplicados.
+- Perfil demográfico (idade) dos compradores por país e por modelo do produto.
+
+As datas de nascimento foram utilizadas para calcular a idade média dos compradores, considerando a data de análise como 27 de junho de 2025.
+
+## Principais Padrões Identificados
+
+- **Canadá** foi o país com maior volume de vendas totais (R$ 4.090), seguido por França e Japão.
+- O modelo **NEW MEGANIUM RG 40XXV** teve alta aceitação em países como Canadá, Alemanha e Japão.
+- Compradores da **França e Japão** apresentam as maiores idades médias para o modelo RG CubeXX (56 e 42 anos, respectivamente).
+- **Descontos** aplicados variaram significativamente, indicando forte influência nas decisões de compra (ex: Canadá teve o maior valor total de desconto).
+
+## Insights Relevantes
+
+1. **Segmentação etária eficaz**: Produtos como o RG353M e CubeXX tendem a atrair consumidores mais maduros (40+ anos).
+2. **Alta penetração no Canadá e França**: Indica oportunidade de aprofundar presença com estratégias locais.
+3. **Descontos como diferencial competitivo**: Países com maior volume de vendas também apresentam maior valor em descontos aplicados.
+4. **Produto RG28XX** possui média de idade mais baixa no Japão (19 anos), podendo indicar um público jovem nichado.
+
+## Recomendações
+
+- **Personalizar campanhas de marketing** por faixa etária e país, especialmente para produtos premium.
+- **Manter e testar cupons de desconto**, avaliando seu impacto nas conversões.
+- **Aprofundar presença nos países com maior receita**, como Canadá e França.
+- **Realizar testes A/B** em mercados de menor penetração (como EUA e Reino Unido) com foco em segmentação etária.
+
+## Anexos ou Visualizações
+
+- Tabela resumo de vendas por país
+- Tabela de idade média por produto e país
+
