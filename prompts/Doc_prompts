@@ -1,1 +1,18 @@
+#Prompt 01 – Entendimento Inicial dos Dados
+- Objetivo: Compreender a estrutura e o conteúdo dos dados.
+- Prompt:
+“Analise o arquivo de vendas e descreva quais são as colunas disponíveis, os tipos de dados, possíveis valores ausentes e possíveis erros ou inconsistências. Há algo que precisa ser limpo ou normalizado?”
+
+#Prompt 02 – Identificação de Padrões
+-Objetivo: Encontrar padrões de comportamento e tendências.
+- Prompt: Com base nos dados de vendas, identifique padrões de comportamento, como sazonalidades, produtos mais vendidos, horários de maior venda ou variações por região. Existem agrupamentos naturais entre clientes ou produtos?”
+
+#Prompt 03 – Geração de Insights Relevantes
+- Objetivo: Gerar insights que ajudem o negócio a entender pontos fortes e oportunidades de melhoria.
+- Prompt: “A partir dos padrões identificados, quais são os principais insights que podem ser usados para melhorar as vendas, otimizar o estoque ou direcionar campanhas de marketing?”
+
+#Prompt 04 – Recomendações para o Negócio
+- Objetivo: Traduzir os insights em ações.
+- Prompt: Baseando-se nos insights obtidos, quais recomendações você daria para os gestores da empresa? Quais ações imediatas podem ser tomadas e quais devem ser monitoradas a longo prazo?”
+
 
