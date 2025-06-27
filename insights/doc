@@ -1,1 +1,11 @@
+#Prompt: crie uma tabela de resumo de vendas por paises desse produto.
 
+| País               | Pedidos Totais | Unidades Vendidas | Vendas Totais (em várias moedas) | Descontos Totais |
+| ------------------ | -------------- | ----------------- | -------------------------------- | ---------------- |
+| **Canadá**         | 14             | 46                | 4.090                            | 760,04           |
+| **França**         | 12             | 36                | 3.210                            | 511,42           |
+| **Japão**          | 8              | 27                | 2.510                            | 499,80           |
+| **Austrália**      | 9              | 28                | 2.330                            | 433,25           |
+| **Alemanha**       | 9              | 23                | 2.010                            | 299,94           |
+| **Reino Unido**    | 5              | 13                | 1.260                            | 198,67           |
+| **Estados Unidos** | 3              | 5                 | 520                              | 47,45            |
